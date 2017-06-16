@@ -957,7 +957,7 @@ pre .javascript .function {
   bottom: 19px;
 }
 .header {
-  background: #fff;
+  background-color: #f4dc58;
 }
 .header-inner {
   position: relative;
@@ -1799,7 +1799,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #34ff24;
+  background: #41c400;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2645,6 +2645,9 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+body {
+  background-color: #f4dc58;
 }
 .site-author-image {
   border-radius: 100%;
